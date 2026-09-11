@@ -130,8 +130,7 @@ A smart agriculture application supporting crop assistance, voice interaction, c
 ### Tools
 
 `Git` `GitHub` `Linux` `Docker` `VS Code` `Figma` `Postman`
-</tr>
-</table>
+
 ---
 
 ## `problem_solving.log`
