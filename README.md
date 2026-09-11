@@ -152,3 +152,24 @@ CURRENT FOCUS
 
 
 ---
+---
+
+## `milestones`
+
+### 🏆 AI for Social Impact Challenge 2026
+
+**HCLFoundation × StartupTN**
+
+`Top 100 Finalist`
+
+Built as part of the **Crime Analytics Platform** project.
+
+---
+
+### 🧠 NVIDIA — Fundamentals of Deep Learning
+
+Completed hands-on training covering:
+
+`Neural Networks` · `Deep Learning` · `Model Training` · `Optimization` · `Computer Vision`
+
+Practical experience with Python and deep learning frameworks.
