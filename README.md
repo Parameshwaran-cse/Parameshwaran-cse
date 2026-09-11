@@ -130,3 +130,50 @@ A smart agriculture application supporting crop assistance, voice interaction, c
 `Git` `GitHub` `Linux` `Docker` `VS Code` `Figma` `Postman`
 </tr>
 </table>
+---
+
+## `problem_solving.log`
+
+I'm actively strengthening my problem-solving fundamentals through
+Data Structures & Algorithms and regular coding practice.
+
+```text
+CURRENT FOCUS
+
+[✓] Arrays & Strings
+[✓] Hashing
+[✓] Two Pointers
+[✓] Sliding Window
+[✓] Linked Lists
+[→] Heaps & Priority Queues
+[→] Trees
+[→] Graphs
+[→] Dynamic Programming
+
+
+---
+
+### Why I like this for your profile
+
+It gives your README a little bit of that **cyberpunk/developer-console personality** without going overboard.
+
+It'll look something like:
+
+```text
+problem_solving.log
+
+I'm actively strengthening my problem-solving fundamentals...
+
+CURRENT FOCUS
+
+[✓] Arrays & Strings
+[✓] Hashing
+[✓] Two Pointers
+[✓] Sliding Window
+[✓] Linked Lists
+[→] Heaps & Priority Queues
+[→] Trees
+[→] Graphs
+[→] Dynamic Programming
+
+progress > perfection
