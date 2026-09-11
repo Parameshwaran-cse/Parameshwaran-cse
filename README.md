@@ -104,6 +104,8 @@ A smart agriculture application supporting crop assistance, voice interaction, c
 **Status:** `Building`
 
 </td>
+</tr>
+</table>
 
 ---
 
