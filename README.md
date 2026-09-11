@@ -175,6 +175,7 @@ Completed hands-on training covering:
 Practical experience with Python and deep learning frameworks.
 
 ---
+---
 
 ## `github_activity`
 
