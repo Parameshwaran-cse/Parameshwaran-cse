@@ -150,8 +150,7 @@ CURRENT FOCUS
 [→] Graphs
 [→] Dynamic Programming
 
-
----
+progress > perfection
 ---
 
 ## `milestones`
