@@ -41,3 +41,68 @@ Currently exploring:
 | 🧩 **Problem Solving** | Strengthening DSA and problem-solving fundamentals |
 
 > `status: actively learning • building • experimenting`
+---
+
+## `featured_projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Crime Analytics Platform
+
+A data-driven crime investigation platform for case management, relationship analysis, alerts, and intelligence.
+
+**Backend Developer**
+
+`Python` `FastAPI` `PostgreSQL` `PostGIS` `Neo4j` `Docker`
+
+**Status:** `Building`
+
+</td>
+
+<td width="50%" valign="top">
+
+### YATA
+
+A full-stack mobile application for faster faculty lookup, department navigation, and real-time faculty availability.
+
+**Full Project**
+
+`Flutter` `Dart` `Firebase` `Provider`
+
+**Status:** `Completed`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Class_Sync
+
+A classroom management application designed for schedules, academic activities, and student–faculty coordination.
+
+**Full Project**
+
+`Flutter` `Dart` `Firebase`
+
+**Status:** `Completed`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Harvest Pro
+
+A smart agriculture application supporting crop assistance, voice interaction, camera features, and offline access.
+
+**Backend Contributor**
+
+`Flutter` `Firebase` `Riverpod` `Hive`
+
+**Status:** `Building`
+
+</td>
+</tr>
+</table>
