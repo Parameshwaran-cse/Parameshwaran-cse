@@ -29,3 +29,15 @@ Currently exploring:
 - 🧩 Data Structures & Problem Solving
 
 > **I learn by building, experimenting, and shipping.**
+---
+
+## `currently_building`
+
+| Focus | What I'm working on |
+|:---|:---|
+| ⚙️ **Backend** | Building the backend for a Crime Analytics Platform |
+| 📱 **Mobile** | Developing Flutter applications and improving app architecture |
+| 🌐 **Full-Stack** | Exploring React and backend development |
+| 🧩 **Problem Solving** | Strengthening DSA and problem-solving fundamentals |
+
+> `status: actively learning • building • experimenting`
