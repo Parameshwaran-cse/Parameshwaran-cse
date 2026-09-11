@@ -104,5 +104,29 @@ A smart agriculture application supporting crop assistance, voice interaction, c
 **Status:** `Building`
 
 </td>
+
+---
+
+## `toolbox`
+
+### Languages
+
+`C` `C++` `Java` `Python` `JavaScript` `SQL` `Dart`
+
+### Frontend
+
+`HTML` `CSS` `React` `Tailwind CSS`
+
+### Backend
+
+`Node.js` `Django` `Flask` `FastAPI` `Spring`
+
+### Databases
+
+`MySQL` `PostgreSQL` `MongoDB` `Firebase` `SQLite`
+
+### Tools
+
+`Git` `GitHub` `Linux` `Docker` `VS Code` `Figma` `Postman`
 </tr>
 </table>
