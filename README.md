@@ -178,10 +178,4 @@ Practical experience with Python and deep learning frameworks.
 
 ## `github_activity`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Parameshwaran-cse&show_icons=true&hide_border=true&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parameshwaran-cse&layout=compact&hide_border=true" height="165">
-
-</div>
+GitHub activity is tracked through my repositories and contribution history.
